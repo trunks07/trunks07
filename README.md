@@ -21,7 +21,6 @@ Fullstack Software Developer
 
 * 🌍  I'm based in Pampanga, Philippines
 * 🖥️  See my portfolio at [porfolio-r867.onrender.com](https://porfolio-r867.onrender.com/)
-* 🧠  I'm learning all technologies related to web development
 
 ### My Github Stats
 
