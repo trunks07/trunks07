@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 My name is Mark Paul Cañeda
 
-Developer and Designer
+Fullstack Software Developer
 -----------------------------
 
 * 🌍  I'm based in Pampanga, Philippines
