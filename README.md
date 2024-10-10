@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-Carlo Guevarra
-Fullstack Software Developer
+# Carlo Guevarra
+# Fullstack Software Developer
 -----------------------------
 
 * 🌍  I'm based in Pampanga, Philippines
