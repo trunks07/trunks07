@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/trunks07"><img src="https://github-readme-stats.vercel.app/api?username=trunks07&show_icons=true&theme=apprentice" alt="trunks07's GitHub stats" /></a>
 
-<a href="http://www.github.com/trunks07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trunks07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&show_icons=true&theme=radical" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=trunks07&theme=apprentice" alt="GitHub Streak" /></a>
 
 
 <a href="https://github.com/trunks07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trunks07&layout=donut-vertical&theme=apprentice" alt="Top Languages" /></a>
