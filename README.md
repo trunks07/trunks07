@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Carlo Guevarra</h1>
 <h3 align="center">Fullstack Software Developer</h3>
 
+- 🌱 I’m currently learning **React JS**
+- 👨‍💻 See my career profile [https://porfolio-r867.onrender.com/](https://porfolio-r867.onrender.com/)
+- 📫 How to reach me **carloguevarra454@gmail.com**
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/https://www.facebook.com/carlo.guevarra.923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlo-guevarra-58b694183?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
