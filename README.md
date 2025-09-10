@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack Software Developer</h3>
 
 - 🌱 I’m currently learning **React JS**
-- 👨‍💻 See my career profile [https://porfolio-r867.onrender.com/](https://portfolio-xoc0.onrender.com/)
+- 👨‍💻 See my career profile [https://carlo-guevarra.vercel.app/](https://carlo-guevarra.vercel.app/)
 - 📫 How to reach me **carloguevarra454@gmail.com**
 
 ## 🌐 Socials:
