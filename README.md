@@ -20,7 +20,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=trunks07&theme=discord" alt="trunks07" /></a> </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=trunks07&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+![Repos I created](https://github-contrib-stats.vercel.app/trunks07/created.svg)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/trunks07/contributed.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=trunks07&icon=10&color=12)](https://visitcount.itsvg.in)
